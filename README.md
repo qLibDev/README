@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/qLibDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=risasdev&show_icons=true&theme=radical&count_private=true&locale=en" alt="qLibDev"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qlidev&show_icons=true&theme=radical&count_private=true&locale=en" alt="qLibDev"/>
   </a>
 </p>
 
